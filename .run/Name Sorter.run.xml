@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Name Sorter" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.namrata.namesorter.NameSorterCli" />
+    <module name="name-sorter" />
+    <option name="PROGRAM_PARAMETERS" value="examples/unsorted-names-list.txt" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
